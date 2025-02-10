@@ -18,7 +18,7 @@ haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib install hxcpp-debug-server
 haxelib install actuate
-haxelib install hxCodec 2.5.1
+haxelib git hxCodec https://github.com/JonnycatMeow/hxCodec-old.git
 haxelib install hscript
 haxelib git lime https://github.com/mcagabe19-stuff/lime
 haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools --quiet --skip-dependencies
