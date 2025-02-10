@@ -78,7 +78,6 @@ c<?xml version="1.0" encoding="utf-8"?>
 	<haxelib name="flixel" />
 	<haxedev set='webgl' />
 	<haxelib name="flixel-addons" />
-	<haxelib name="hscript" />
 	<haxelib name="actuate" />
 	<haxelib name="flixel-ui" />
 	<haxelib name="faxe" if='switch'/>
